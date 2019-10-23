@@ -1,0 +1,56 @@
+body {
+  text-align: center;
+}
+
+.resultsOtC{
+  display: none;
+  text-align: center;
+  background-color: #d7ffc4;
+}
+
+.resultsTtO{
+  display: none;
+  text-align: center;
+  background-color: #d7ffc4;
+}
+
+.resultsCtP {
+  display: none;
+  text-align: center;
+  background-color: #d7ffc4;
+}
+
+.resultsQtG {
+  display: none;
+  text-align: center;
+  background-color: #d7ffc4;
+}
+
+
+.col-xs-12 {
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: auto;
+  border-top: 1px inset green;
+
+.col-sm-6 {
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: auto;
+  border-top: 1px inset green;
+
+.col-md-4 {
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: auto;
+  border-top: 1px inset green;
+
+.col-lg-3 {
+  margin-top: 20px;
+  margin-bottom: auto;
+  padding-top: 20px;
+  padding-bottom: auto;
+  border-top: 1px inset green;
